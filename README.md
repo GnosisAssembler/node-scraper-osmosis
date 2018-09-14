@@ -3,5 +3,5 @@ Simple implementation of Osmosis Library, which fetches daily tech news from Dzo
 
 #### Example
 
-!['example']('img/example.png'?raw=true)
-!['output']('img/output.png'?raw=true)
+!['example'](img/example.png?raw=true)
+!['output'](img/output.png?raw=true)

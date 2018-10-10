@@ -1,4 +1,6 @@
 # Web-scraper-node-osmosis
+![status archived](https://img.shields.io/badge/status-archived-red.svg)
+
 Simple implementation of Osmosis Library, which fetches daily tech news from Dzone and prints them to the console.
 
 ### Prerequisites

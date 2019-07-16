@@ -17,6 +17,8 @@ const scraper = require('./routes/scraper');
 app.use('/', scraper);
 
 // Listen to port 3000 for connection
-app.listen(5000 , function() {
-    console.log('Server running on port 5000');
+const port = 5000
+
+app.listen(port , function() {
+    console.log('Server running on port ${port}');
 });

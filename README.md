@@ -2,7 +2,7 @@
 
 ![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
 
-> A simple implementation of Osmosis Library, which fetches daily tech news from Dzone and prints them to the console.
+> A simple implementation of Osmosis Library, which fetches daily tech news from Dzone and prints them to the console..
 
 ### Prerequisites
 [Node.js](https://nodejs.org/en/)
